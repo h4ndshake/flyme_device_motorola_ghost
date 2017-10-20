@@ -17,7 +17,7 @@ Display                 | 720 x 1280 pixels ,4.7" AMOLED
 Rear Camera             | 10 MP, f/2.4, 30mm, autofocus, LED flash
 Front Camera            | 2 MP, 1080p
 
-![Moto X 2013](http://cdn2.gsmarena.com/vv/pics/motorola/motorola-moto-x-1.jpg "Moto X 2013"
+![Moto X 2013](http://cdn2.gsmarena.com/vv/pics/motorola/motorola-moto-x-1.jpg "Moto X 2013")
 
 ## License
 This project is released under the [MIT License](LICENSE).
