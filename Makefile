@@ -47,7 +47,7 @@ vendor_modify_images := boot
 # The default value is nothing.
 # You can configure the file name which relative to the vendor/system directory.
 #-----------------------------------------------------------------------------
-#vendor_remove_files := bin/zchgd
+vendor_remove_files := etc/permissions/org.cyanogenmod.livedisplay.xml
 
 ##############################################################################
 # The value decides the vendor apk which you want to save in the vendor directory for the ota package.
@@ -56,7 +56,8 @@ vendor_modify_images := boot
 #-----------------------------------------------------------------------------
 vendor_saved_apps := Bluetooth KeyChain HTMLViewer UserDictionaryProvider BackupRestoreConfirmation \
                      FusedLocation PrintSpooler SharedStorageBackup  ExternalStorageProvider InputDevices \
-                     ProxyHandler Shell DefaultContainerService NfcNci CMSettingsProvider telresources
+                     ProxyHandler Shell DefaultContainerService NfcNci CMSettingsProvider telresources \
+                     CMAudioService
 
 ##############################################################################
 # The value decides which vendor apk you want to modify.
