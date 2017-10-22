@@ -56,7 +56,7 @@ vendor_remove_files := etc/permissions/org.cyanogenmod.livedisplay.xml
 #-----------------------------------------------------------------------------
 vendor_saved_apps := Bluetooth KeyChain HTMLViewer UserDictionaryProvider BackupRestoreConfirmation \
                      FusedLocation PrintSpooler SharedStorageBackup  ExternalStorageProvider InputDevices \
-                     ProxyHandler Shell DefaultContainerService NfcNci CMSettingsProvider telresources \
+                     ProxyHandler Shell DefaultContainerService CMSettingsProvider telresources \
                      CMAudioService
 
 ##############################################################################
