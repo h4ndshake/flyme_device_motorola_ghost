@@ -15964,7 +15964,7 @@
 
     move-result v3
 
-    monitor-exit v33
+    monitor-exit v34
 
     return v3
 
